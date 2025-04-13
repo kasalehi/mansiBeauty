@@ -111,11 +111,8 @@ nav ul li a:hover::after{
 .flex .right-side {
     display: flex;
     justify-content: center;
-    margin-top:80px ;
+    margin-top:20px ;
     margin-left: 40px;
-    flex: 1;
-    width: 400;
-    height: 400;
     padding-left: 1rem;
     display: flex;
     flex-direction: column;
@@ -127,6 +124,7 @@ nav ul li a:hover::after{
     font-size: 15px;
     line-height: 1;
     color: #101223;
+    padding: 10px 10px;
     background-color: #fff8f2;
     /* padding: 10px; */
     border-left: 5px solid #f1e0ba;
